@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1023454799262",
+    "firebase_url": "https://fir-bildirim-d7834.firebaseio.com",
+    "project_id": "fir-bildirim-d7834",
+    "storage_bucket": "fir-bildirim-d7834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023454799262:android:08aa89cfcee3bf79",
+        "android_client_info": {
+          "package_name": "com.serifgungor.firebasenotificationkullanimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023454799262-l5ojm84m4uisjio3c8mrinm0o7a2htj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg8BH2CGfjBN_UOS5rIsqh9KyI9jy_UIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023454799262-l5ojm84m4uisjio3c8mrinm0o7a2htj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

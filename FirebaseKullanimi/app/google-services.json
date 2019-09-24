@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007396392466",
+    "firebase_url": "https://fir-kullanimi-71a1e.firebaseio.com",
+    "project_id": "fir-kullanimi-71a1e",
+    "storage_bucket": "fir-kullanimi-71a1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007396392466:android:3b1eab19098dcfab",
+        "android_client_info": {
+          "package_name": "com.serifgungor.firebasekullanimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007396392466-o9vapt3s31q2j9log7i3do052dal13gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.serifgungor.firebasekullanimi",
+            "certificate_hash": "8c969609a15f45e37c060a17bdb6d012477a2c6c"
+          }
+        },
+        {
+          "client_id": "1007396392466-po8pe6jp8tgi3mf7rv6vsrfpf33lrqb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_S6A-8G-IO7WqngqBjJ_W3ElC462QV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007396392466-po8pe6jp8tgi3mf7rv6vsrfpf33lrqb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
